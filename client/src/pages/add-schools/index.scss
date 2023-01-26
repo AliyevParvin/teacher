@@ -1,0 +1,15 @@
+#add-page {
+  display: flex;
+  justify-content: center;
+  .input {
+    margin: 20px;
+  }
+  button {
+    padding: 12px 25px;
+    border-radius: 20px;
+    border: 0;
+    background-color: blue;
+    margin-left: 20px;
+    color: white;
+  }
+}
